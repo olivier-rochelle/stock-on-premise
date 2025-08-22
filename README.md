@@ -3,7 +3,7 @@
 historique
 
 22-08-25 22h00 gmt+1
--a été uploadé dans le repetoire donc les differents diagrammes dont les mockup créé pendant la conception
+-a été uploadé dans le repertoire donc les differents diagrammes dont les mockup créé pendant la conception
 
 
 Logiciel de gestion logistique & RH pour une ASBL humanitaire
